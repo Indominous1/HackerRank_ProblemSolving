@@ -44,7 +44,7 @@ Sum everything except 5, the sum is 1+2+3+4=10.
 
 Hints: Beware of integer overflow! Use 64-bit Integer.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+  
 Solution-
 #include <bits/stdc++.h>
 using namespace std;
