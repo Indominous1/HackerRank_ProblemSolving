@@ -51,7 +51,8 @@ Sample Output 1-
 Explanation 1
 The diagram below depicts the number of times Maria broke her best and worst records throughout the season:
 
-She broke her best record four times (after games , , , and ) and her worst record zero times (no score during the season was lower than the one she earned during her first game), so we print 4 0 as our answer.
+She broke her best record four times (after games , , , and ) and her worst record zero times (no score during the season was lower than the one she earned during her first 
+game), so we print 4 0 as our answer.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Solution-
