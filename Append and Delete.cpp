@@ -7,7 +7,7 @@ You have two strings of lowercase English letters. You can perform two types of 
 Given an integer, k, and two strings, s and t, determine whether or not you can convert s to t by performing exactly k of the above operations on s. 
 If it's possible, print Yes. Otherwise, print No.
 
-Example. 
+Example-
 s=[a,b,c]
 t=[d,e,f]
 k=6
